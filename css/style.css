@@ -137,7 +137,7 @@ MEDIA QUERY
 
 
 
-@media (min-width: 1025px) {
+@media (min-width: 760px) {
 
 	.inline{
 		float: left;
